@@ -1,4 +1,4 @@
-# Kinematic-Simulation-and-Control-of-Frank-Emika-Panda-7-DOF-Manipulator
+# MATLAB-Based Kinematic Analysis and Control of the Franka Emika Panda 7 DOF Robot Using Modified DH Parameters
 This repository contains MATLAB scripts for the kinematic analysis, Jacobian computation, and control of the Franka Emika Panda robotic arm. It includes detailed implementations of the DH parameter transformations, joint space and Cartesian space control, and animation of the robot's movements. The project also explores the use of the pseudo-inverse Jacobian for redundancy resolution in 7-DOF configurations.
 
 ![56992707-f02b0e80-6b9a-11e9-99fd-58a31f114d0e](https://github.com/user-attachments/assets/7e23e830-2c94-4922-9be7-c265ca64c6f9)
