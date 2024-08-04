@@ -14,6 +14,8 @@ alpha = [0, pi/2, 0, pi/2, -pi/2, pi/2, 0];
 d = [0.333, 0, 0.316, 0, 0.384, 0, 0.107];
 theta = [0, -pi/2, pi/2, 0, 0, 0, 0]; % Initial joint angles
 ```
+![image](https://github.com/user-attachments/assets/51fe9d3e-fafe-4559-926a-05f99056769b)
+
 
 2) COMPUTING TRANSFORMATION MATRICES-
 Next, the transformation matrices for each joint are computed using the DH parameters.
