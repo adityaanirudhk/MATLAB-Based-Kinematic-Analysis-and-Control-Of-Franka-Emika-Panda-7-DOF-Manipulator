@@ -7,7 +7,7 @@ GIF in courtesy of https://github.com/cpezzato/panda_simulation
 
 
 1) DEFINING THE DH PARAMETERS-
-The first step involves defining the Denavit-Hartenberg (DH) parameters for the Franka Emika Panda robot.
+The first step involves defining the Denavit-Hartenberg (DH) parameters for the Franka Emika Panda robot. The DH Parameters have been taken from open source- https://www.researchgate.net/figure/D-H-parameters-of-the-Franka-Emika-cobot_tbl1_351329007  
  ```MATLAB
 a = [0, 0, 0, 0.0825, -0.0825, 0, 0.088];
 alpha = [0, pi/2, 0, pi/2, -pi/2, pi/2, 0];
@@ -15,6 +15,8 @@ d = [0.333, 0, 0.316, 0, 0.384, 0, 0.107];
 theta = [0, -pi/2, pi/2, 0, 0, 0, 0]; % Initial joint angles
 ```
 ![image](https://github.com/user-attachments/assets/51fe9d3e-fafe-4559-926a-05f99056769b)
+![image](https://github.com/user-attachments/assets/d0ad3f50-da66-4ba2-8d20-c74aaa9b793b)
+
 
 
 2) COMPUTING TRANSFORMATION MATRICES-
