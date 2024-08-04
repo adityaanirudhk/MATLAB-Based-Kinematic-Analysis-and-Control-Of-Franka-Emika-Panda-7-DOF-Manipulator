@@ -5,6 +5,7 @@ This repository contains MATLAB scripts for the kinematic analysis, Jacobian com
 
 GIF in courtesy of https://github.com/cpezzato/panda_simulation
 
+
 1) DEFINING THE DH PARAMETERS-
 The first step involves defining the Denavit-Hartenberg (DH) parameters for the Franka Emika Panda robot.
  ```MATLAB
