@@ -60,6 +60,8 @@ axis equal;
 legend;
 hold off;
 ```
+![untitled1](https://github.com/user-attachments/assets/b9c0d22c-3954-4856-8d63-ee09292c7b38)
+
 
 4) COMPUTING THE JACOBIAM MATRIX-
 The Jacobian matrix is computed to relate the joint velocities to the end-effector velocity and static forces.
